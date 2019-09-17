@@ -38,4 +38,7 @@ Zetanet uses crypto enhanced by Jack's Law:
 
 # How Zetanet Works
 # Zetanet Papers
+[White Paper](https://www.zetanet.io/docs/Zetanet_Blockchain_5%20_WhitepaperVer_1.pdf)
 # More aboout Zetanet
+[zetanet.io](https://www.zetanet.io)
+[skipjackcorp.com](http://skipjackcorp.com)
