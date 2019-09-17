@@ -40,6 +40,8 @@ Zetanet uses crypto enhanced by Jack's Law:
 # Zetanet Papers
 [White Paper](https://www.zetanet.io/docs/Zetanet_Blockchain_5%20_WhitepaperVer_1.pdf)
 # More aboout Zetanet
-[zetanet.io](https://www.zetanet.io)
+[zetanet](https://www.zetanet.io)
 
-[skipjackcorp.com](http://skipjackcorp.com)
+[skipjackcorp](http://skipjackcorp.com)
+
+[encrypblock](https://skipjackfcn.com)
